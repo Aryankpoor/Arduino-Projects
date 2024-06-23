@@ -8,7 +8,7 @@ Total 10 arduino projects . Material Required for each project will be updated i
 
 #### 2. Smart Parking system
 
-#### 3. Audio Detector
+#### 3. Clap Switch Using Arduino
 
 #### 4. Electronic Dice
 
@@ -42,11 +42,30 @@ AN ARDUINO UNO IS REQUIRED FOR EACH PROJECT. Arduino nano can also be used.
      Ultrasonic Sensor
      Breadboard
 
-#### 3. Audio Detector
+#### 3. Clap Switch Using Arduino
+     Arduino Uno
+     Sound Sensor Module
+     1 CH Relay Module
+     Jumper Wires (Male to Female)
 
 #### 4. Electronic Dice
+     Breadboard
+     7 x LEDs
+     4 x 220 ohm resistors
+     10k ohm resistor
+     push switch
+     arduino UNO
+     Jumper Wires
 
 #### 5. Electronic Voting Machine
+     Breadboard
+     Arduino Uno
+     16x2 LCD Display
+     10000 ohm potentiometer
+     5 x push button switches
+     2 x 220 ohm resistors
+     2 x LED
+     Connecting Wires / Jumper wires
 
 #### 6. LED Chaser
     Breadboard
@@ -56,8 +75,18 @@ AN ARDUINO UNO IS REQUIRED FOR EACH PROJECT. Arduino nano can also be used.
     Connecting / Jumper wires
 
 #### 7. LED Blinking Pattern
+     2 x breadboard
+     16 x LEDs
+     16 x 220 ohm resistors
+     2 x 74HC95
+     1 x Arduino Uno / Nano
+     connecting wires
 
 #### 8. Automatic Parking system 2
+     Arduino
+     UltraSonic sensor
+     Servo Motor
+     Breadboard
 
 #### 9. Visitor Counter
     Breadboard
@@ -68,3 +97,11 @@ AN ARDUINO UNO IS REQUIRED FOR EACH PROJECT. Arduino nano can also be used.
     connecting/jumper wires
 
 ### 10 Light Controller using Voice Command
+    Arduino
+    Microphone
+    DF Player
+    SD Card
+    Connecting Wires
+    Speaker
+    100mf capacitor
+    1k ohm resistor
